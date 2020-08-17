@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "spellbook_jwtPrivateKey"
+  "jwtPrivateKey": "spellbook_jwtPrivateKey",
+  "db": "spellbook_db"
 }
