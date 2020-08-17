@@ -1,0 +1,200 @@
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"School\"","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Cannot read property 'ObjectId' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"mongoose is not defined","level":"error"}
+{"message":"mongoose is not defined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Cannot read property 'Types' of undefined","level":"error"}
+{"message":"Cannot read property 'Types' of undefined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
