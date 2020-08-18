@@ -18,6 +18,11 @@ const spellSchema = new mongoose.Schema({
     required: true,
     min: 0,
   },
+  castTime: {
+    type: Number,
+    required: true,
+    min: 0,
+  },
 });
 
 const Spell = mongoose.model("Spell", spellSchema);
@@ -27,6 +32,7 @@ function validateSpell(spell) {
     name: Joi.string().min(5).max(50).required(),
     schoolId: Joi.objectId().required(),
     range: Joi.number().min(0).required(),
+    castTime: Joi.number().min(0).required(),
   };
   return Joi.validate(spell, schema);
 }

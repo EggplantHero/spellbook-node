@@ -33,6 +33,7 @@ router.post("/", auth, async (req, res) => {
       name: school.name,
     },
     range: req.body.range,
+    castTime: req.body.castTime,
   });
   spell = await spell.save();
   res.send(spell);
