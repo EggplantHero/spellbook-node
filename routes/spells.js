@@ -50,7 +50,12 @@ router.put("/:id", auth, async (req, res) => {
 
   const spell = await Spell.findByIdAndUpdate(
     req.params.id,
-    { name: req.body.name, school: { _id: school._id, name: school.name } },
+    {
+      name: req.body.name,
+      school: { _id: school._id, name: school.name },
+      range: req.body.range,
+      castTime: req.body.castTime,
+    },
     { new: true }
   );
 
