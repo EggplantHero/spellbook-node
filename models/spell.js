@@ -1,12 +1,12 @@
 const mongoose = require("mongoose");
 const Joi = require("joi");
-const schoolSchema = require("./school");
+const {schoolSchema} = require("./school");
 
 const spellSchema = new mongoose.Schema({
   name: {
     type: String,
     required: true,
-    minlength: 5,
+    minlength: 1,
     maxlength: 50,
   },
   school: {
@@ -29,7 +29,7 @@ const Spell = mongoose.model("Spell", spellSchema);
 
 function validateSpell(spell) {
   const schema = {
-    name: Joi.string().min(5).max(50).required(),
+    name: Joi.string().min(1).max(50).required(),
     schoolId: Joi.objectId().required(),
     range: Joi.number().min(0).required(),
     castTime: Joi.number().min(0).required(),
@@ -37,5 +37,6 @@ function validateSpell(spell) {
   return Joi.validate(spell, schema);
 }
 
+exports.spellSchema = spellSchema;
 exports.Spell = Spell;
 exports.validate = validateSpell;

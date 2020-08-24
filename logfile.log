@@ -198,3 +198,58 @@
 {"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
 {"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
 {"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Unexpected token } in JSON at position 74","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Unexpected token , in JSON at position 186","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Invalid status code: { _id: 5f0e8647559bf74c64972166,\n  name: 'Cure Wounds',\n  range: 1,\n  __v: 0,\n  school: { _id: 5f0e8358f5c8e92f2ca81021, name: 'Evocation' } },{ _id: 5f0e85ec559bf74c64972163,\n  name: 'Fireball',\n  range: 60,\n  __v: 0,\n  school: { _id: 5f0e8358f5c8e92f2ca81021, name: 'Evocation' } },{ _id: 5f0ee9b82053563cfcfefd5b,\n  name: 'Green-Flame Blade',\n  school: { _id: 5f0e8358f5c8e92f2ca81021, name: 'Evocation' },\n  range: 0,\n  __v: 0 },{ _id: 5f0e88063793084d8050fe50,\n  name: 'Ice Knife',\n  range: 60,\n  __v: 0,\n  school: { _id: 5f0e8369f5c8e92f2ca81025, name: 'Transmutation' } },{ _id: 5f0e8685559bf74c64972169,\n  name: 'Magic Missile',\n  range: 60,\n  __v: 0,\n  school: { _id: 5f0e8358f5c8e92f2ca81021, name: 'Evocation' } },{ _id: 5f0e8676559bf74c64972167,\n  name: 'Mirror Image',\n  range: 0,\n  __v: 0,\n  school: { _id: 5f0e835bf5c8e92f2ca81022, name: 'Illusion' } },{ _id: 5f0e867e559bf74c64972168,\n  name: 'Mold Earth',\n  range: 30,\n  __v: 0,\n  school: { _id: 5f0e8369f5c8e92f2ca81025, name: 'Transmutation' } },{ _id: 5f0ee52a6ddc4a406cdbebf8,\n  name: 'Shillelagh',\n  school: { _id: 5f0e835ff5c8e92f2ca81023, name: 'Enchantment' },\n  range: 0,\n  __v: 0 },{ _id: 5f0e863f559bf74c64972165,\n  name: 'Shocking Grasp',\n  range: 0,\n  __v: 0,\n  school: { _id: 5f0e8358f5c8e92f2ca81021, name: 'Evocation' } },{ _id: 5f3e9e038359ce2b70e1a772,\n  name: 'Wish',\n  school: { _id: 5f0e8358f5c8e92f2ca81021, name: 'Evocation' },\n  range: 1,\n  castTime: 1,\n  __v: 0 }","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"User is not defined","level":"error"}
+{"message":"User is not defined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Cannot read property 'spells' of null","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"user is not defined","level":"error"}
+{"message":"user is not defined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"user is not defined","level":"error"}
+{"message":"user is not defined","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Cannot read property 'remove' of null","level":"error"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Connected to mongodb://localhost/spellbook...","level":"info"}
+{"message":"Cannot read property 'spells' of null","level":"error"}
