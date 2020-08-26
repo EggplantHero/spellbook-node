@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Joi = require("joi");
-const {schoolSchema} = require("./school");
+const { schoolSchema } = require("./school");
 
 const spellSchema = new mongoose.Schema({
   name: {
@@ -14,13 +14,32 @@ const spellSchema = new mongoose.Schema({
     required: true,
   },
   range: {
+    type: String,
+    required: true,
+    minlength: 0,
+  },
+  castTime: {
+    type: String,
+    required: true,
+    minlength: 0,
+  },
+  level: {
     type: Number,
     required: true,
     min: 0,
+    max: 9,
   },
-  castTime: {
+  description: {
+    type: String,
+    minlength: 0,
+    maxlength: 5000,
+  },
+  feet: {
     type: Number,
-    required: true,
+    min: 0,
+  },
+  minutes: {
+    type: Number,
     min: 0,
   },
 });
@@ -31,8 +50,12 @@ function validateSpell(spell) {
   const schema = {
     name: Joi.string().min(1).max(50).required(),
     schoolId: Joi.objectId().required(),
-    range: Joi.number().min(0).required(),
-    castTime: Joi.number().min(0).required(),
+    range: Joi.string().min(0).required(),
+    castTime: Joi.string().min(0).required(),
+    level: Joi.number().min(0).max(9).required(),
+    description: Joi.string().empty("").min(0).max(5000),
+    feet: Joi.number().min(0).empty(0),
+    minutes: Joi.number().min(0).empty(0),
   };
   return Joi.validate(spell, schema);
 }

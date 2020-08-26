@@ -17,7 +17,6 @@ router.get("/:id", auth, async (req, res) => {
   const currentUser = await User.findById(req.user._id);
   const spells = currentUser.spells;
   const spell = spells.find((s) => s.id === req.params.id);
-  // const spell = await Spell.findById(req.params.id);
   if (!spell)
     return res.status(404).send("The spell with the given ID was not found.");
   res.send(spell);
@@ -40,6 +39,10 @@ router.post("/", auth, async (req, res) => {
     },
     range: req.body.range,
     castTime: req.body.castTime,
+    level: req.body.level,
+    description: req.body.description,
+    feet: req.body.feet,
+    minutes: req.body.minutes,
   });
 
   const currentUser = await User.findById(req.user._id);
@@ -72,6 +75,10 @@ router.put("/:id", auth, async (req, res) => {
       school: { _id: school._id, name: school.name },
       range: req.body.range,
       castTime: req.body.castTime,
+      level: req.body.level,
+      description: req.body.description,
+      feet: req.body.feet,
+      minutes: req.body.minutes,
     };
   }
 
