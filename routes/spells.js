@@ -87,7 +87,7 @@ router.put("/:id", auth, async (req, res) => {
   res.send(spell);
 });
 
-router.delete("/:id", [auth, admin], async (req, res) => {
+router.delete("/:id", auth, async (req, res) => {
   const currentUser = await User.findById(req.user._id);
   const spell = currentUser.spells.id(req.params.id);
   spell.remove();
