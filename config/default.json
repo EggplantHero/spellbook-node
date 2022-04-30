@@ -1,4 +1,4 @@
 {
-  "jwtPrivateKey": "",
-  "db": "mongodb://localhost/spellbook"
+  "jwtPrivateKey": "spellbook_jwtPrivateKey",
+  "db": "spellbook_db"
 }
